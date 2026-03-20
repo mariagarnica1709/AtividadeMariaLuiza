@@ -1,0 +1,47 @@
+@import url('style.css');
+
+
+html, body{
+    height: 100%;
+}
+
+body{
+    background: url('/img/fotofundo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.principal{
+    background: none;
+    flex: 1 0 auto;
+}
+
+.subtitulo{
+    color:  rgb(255, 249, 224);
+    margin-left: 200px;
+    text-align: left;
+}
+
+details{
+    background-color: rgb(255, 249, 224);
+    color: rgb(118, 110, 47);
+    padding: 25px;
+    border-radius: 5px;
+    margin: auto;
+    margin-bottom: 25px;
+    width: 70%;
+}
+
+summary{
+    color: rgb(118, 110, 47);
+    cursor: pointer;
+}
+
+ol{
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+li{
+    padding: 4px;
+}

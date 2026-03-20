@@ -1,0 +1,21 @@
+@import url('style.css');
+
+h2{
+    color: rgb(255, 249, 224);
+    margin-left: 220px;
+    font-family: "Playfair Display", serif;
+}
+
+.curiosidades-sub{
+    background-color: rgb(255, 249, 224);
+    color: rgb(118, 110, 47);
+    padding: 10px 10px 10px 5px;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.curiosidades-sub li{
+    margin-left: 40px;
+    line-height: 30px;
+}
