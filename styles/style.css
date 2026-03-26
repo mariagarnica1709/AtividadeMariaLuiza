@@ -96,7 +96,7 @@ img{
 main{
     font-family: "Montserrat", sans-serif;
     background-color: #000;
-    background: url('/img/fotofundo.png');
+    background: url('../img/fotofundo.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
